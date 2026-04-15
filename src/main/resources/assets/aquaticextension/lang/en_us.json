@@ -1,0 +1,13 @@
+{
+  "itemGroup.aquaticextension": "Example Mod Tab",
+  "block.aquaticextension.example_block": "Example Block",
+  "item.aquaticextension.example_item": "Example Item",
+
+  "aquaticextension.configuration.title": "AquaticExtension Configs",
+  "aquaticextension.configuration.section.aquaticextension.common.toml": "AquaticExtension Configs",
+  "aquaticextension.configuration.section.aquaticextension.common.toml.title": "AquaticExtension Configs",
+  "aquaticextension.configuration.items": "Item List",
+  "aquaticextension.configuration.logDirtBlock": "Log Dirt Block",
+  "aquaticextension.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aquaticextension.configuration.magicNumber": "Magic Number"
+}
